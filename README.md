@@ -1,5 +1,6 @@
 Project Title: Walmart Shop Dashboard with Power BI and Kaggle
 
+![Screenshot 2024-02-02 210811](https://github.com/rahulprasanna012/dashboard/assets/141171230/1d46d4bd-2e32-4f39-a2eb-bd460e13aae0)
 
 
 Description:
